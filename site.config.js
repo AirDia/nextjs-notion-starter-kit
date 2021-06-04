@@ -9,7 +9,7 @@ module.exports = {
   // basic site info (required)
   name: '马大虎的知识库',
   domain: 'https://www.notion.so/7a69a86ea02c4505880c82b1b02ba7cb',
-  author: '大虎',
+  author: 'ArtDia',
 
   // open graph metadata (optional)
   description: 'Example site description',
