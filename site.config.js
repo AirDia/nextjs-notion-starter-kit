@@ -7,7 +7,7 @@ module.exports = {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: '马大虎的知识库',
+  name: 'ArtDia的小站',
   domain: 'https://www.notion.so/7a69a86ea02c4505880c82b1b02ba7cb',
   author: 'ArtDia',
 
