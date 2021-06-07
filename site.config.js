@@ -12,8 +12,8 @@ module.exports = {
   author: 'ArtDia',
 
   // open graph metadata (optional)
-  description: 'Example site description',
-  socialImageTitle: 'Transitive Bullshit',
+  description: '欢迎你来👋',
+  socialImageTitle: 'ArtDDDDia',
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
