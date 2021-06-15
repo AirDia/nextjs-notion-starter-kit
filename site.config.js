@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'ArtDia的小站',
-  domain: 'https://www.notion.so/7a69a86ea02c4505880c82b1b02ba7cb',
+  domain: 'https://artdia.top',
   author: 'ArtDia',
 
   // open graph metadata (optional)
