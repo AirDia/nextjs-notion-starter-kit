@@ -5,7 +5,7 @@ import styles from './styles.module.css'
 export const GitHubShareButton: React.FC = () => {
   return (
     <a
-      href='null'
+      href='https://github.com/AirDia'
       target='_blank'
       rel='noopener noreferrer'
       className={styles.githubCorner}
